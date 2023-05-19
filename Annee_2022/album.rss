@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Année 2022</title>
+   	<link>..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2022/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2022/aout/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2022/juillet/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2022/mai/album.rss" />   	
+        
+    </channel>
+</rss>

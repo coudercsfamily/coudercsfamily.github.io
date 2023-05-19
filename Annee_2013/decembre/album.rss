@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Décembre</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description>Week-end à Montaud</description>
+        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2013/decembre/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2013/decembre/fetes/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2013/decembre/montaud/album.rss" />   	
+        
+    </channel>
+</rss>

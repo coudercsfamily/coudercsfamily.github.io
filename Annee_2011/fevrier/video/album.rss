@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Vidéo</title>
+   	<link>../../..</link>
+        <generator>jAlbum 11</generator>
+   		<description>La famille Couderc fait du ski !</description>
+        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/</jalbum:absolutePath>
+        <item>
+            <title>skiAlexis</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiAlexis.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:08:53 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/thumbs/skiAlexis.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiAlexis.mp4" width="112" height="160"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiAlexis.mp4" width="112" height="160" fileSize="284768"/>
+            <guid isPermaLink="false">slides/skiAlexis.jpg</guid>
+        </item>
+        <item>
+            <title>skiJulien</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiJulien.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:08:53 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/thumbs/skiJulien.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiJulien.mp4" width="112" height="160"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiJulien.mp4" width="112" height="160" fileSize="251366"/>
+            <guid isPermaLink="false">slides/skiJulien.jpg</guid>
+        </item>
+        <item>
+            <title>skiMarina</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiMarina.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:08:53 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/thumbs/skiMarina.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiMarina.mp4" width="112" height="160"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiMarina.mp4" width="112" height="160" fileSize="186068"/>
+            <guid isPermaLink="false">slides/skiMarina.jpg</guid>
+        </item>
+        <item>
+            <title>skiMatthieu</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiMatthieu.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:08:53 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/thumbs/skiMatthieu.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiMatthieu.mp4" width="112" height="160"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2011/fevrier/video/skiMatthieu.mp4" width="112" height="160" fileSize="454838"/>
+            <guid isPermaLink="false">slides/skiMatthieu.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Couderc's Family</title>
+   	<link>.</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2023/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2022/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2021/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2020/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2019/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2018/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2017/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2016/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2015/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2014/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2013/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2012/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2011/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2010/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2009/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2008/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2007/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2006/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2005/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2004/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2003/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2002/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2001/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2000/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_1999/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_1998/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_1997/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_1996/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_1995/album.rss" />   	
+        
+    </channel>
+</rss>

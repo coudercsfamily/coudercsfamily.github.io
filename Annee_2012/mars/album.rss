@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Mars</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description>38 ans de papa</description>
+        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2012/mars/</jalbum:absolutePath>
+        <item>
+            <title>DSC_2327</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2012/mars/slides/DSC_2327.JPG</link>
+            <pubDate>Thu, 18 May 2023 21:08:48 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2012/mars/thumbs/DSC_2327.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="http://marina.couderc.free.fr/albums/Annee_2012/mars/slides/DSC_2327.JPG" width="399" height="600"/>
+            <guid isPermaLink="false">slides/DSC_2327.JPG</guid>
+        </item>
+    </channel>
+</rss>

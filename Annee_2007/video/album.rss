@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>video</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2007/video/</jalbum:absolutePath>
+        <item>
+            <title>alexisdanse</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2007/video/alexisdanse.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2007/video/thumbs/alexisdanse.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2007/video/alexisdanse.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2007/video/alexisdanse.mp4" width="640" height="480" fileSize="1693441"/>
+            <guid isPermaLink="false">slides/alexisdanse.jpg</guid>
+        </item>
+        <item>
+            <title>macopetelesplombs</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2007/video/macopetelesplombs.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2007/video/thumbs/macopetelesplombs.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2007/video/macopetelesplombs.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2007/video/macopetelesplombs.mp4" width="640" height="480" fileSize="845423"/>
+            <guid isPermaLink="false">slides/macopetelesplombs.jpg</guid>
+        </item>
+        <item>
+            <title>matthieu6ans</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2007/video/matthieu6ans.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2007/video/thumbs/matthieu6ans.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2007/video/matthieu6ans.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2007/video/matthieu6ans.mp4" width="640" height="480" fileSize="12339997"/>
+            <guid isPermaLink="false">slides/matthieu6ans.jpg</guid>
+        </item>
+        <item>
+            <title>matthieurigole</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2007/video/matthieurigole.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2007/video/thumbs/matthieurigole.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2007/video/matthieurigole.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2007/video/matthieurigole.mp4" width="640" height="480" fileSize="2730259"/>
+            <guid isPermaLink="false">slides/matthieurigole.jpg</guid>
+        </item>
+        <item>
+            <title>MOV01813</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2007/video/MOV01813.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2007/video/thumbs/MOV01813.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2007/video/MOV01813.mp4" width="320" height="240"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2007/video/MOV01813.mp4" width="320" height="240" fileSize="3753344"/>
+            <guid isPermaLink="false">slides/MOV01813.jpg</guid>
+        </item>
+        <item>
+            <title>MOV02030</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2007/video/MOV02030.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2007/video/thumbs/MOV02030.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2007/video/MOV02030.mp4" width="320" height="240"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2007/video/MOV02030.mp4" width="320" height="240" fileSize="1714694"/>
+            <guid isPermaLink="false">slides/MOV02030.jpg</guid>
+        </item>
+        <item>
+            <title>zootourniquet</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2007/video/zootourniquet.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:29 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2007/video/thumbs/zootourniquet.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2007/video/zootourniquet.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2007/video/zootourniquet.mp4" width="640" height="480" fileSize="4349471"/>
+            <guid isPermaLink="false">slides/zootourniquet.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>video</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2008/video/</jalbum:absolutePath>
+        <item>
+            <title>alexisplongeon</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2008/video/alexisplongeon.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2008/video/thumbs/alexisplongeon.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2008/video/alexisplongeon.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2008/video/alexisplongeon.mp4" width="640" height="480" fileSize="1806684"/>
+            <guid isPermaLink="false">slides/alexisplongeon.jpg</guid>
+        </item>
+        <item>
+            <title>Alexis_Manege</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2008/video/Alexis_Manege.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2008/video/thumbs/Alexis_Manege.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2008/video/Alexis_Manege.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2008/video/Alexis_Manege.mp4" width="640" height="480" fileSize="2248158"/>
+            <guid isPermaLink="false">slides/Alexis_Manege.jpg</guid>
+        </item>
+        <item>
+            <title>confetti</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2008/video/confetti.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2008/video/thumbs/confetti.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2008/video/confetti.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2008/video/confetti.mp4" width="640" height="480" fileSize="2835847"/>
+            <guid isPermaLink="false">slides/confetti.jpg</guid>
+        </item>
+        <item>
+            <title>julien4ans</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2008/video/julien4ans.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2008/video/thumbs/julien4ans.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2008/video/julien4ans.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2008/video/julien4ans.mp4" width="640" height="480" fileSize="3833314"/>
+            <guid isPermaLink="false">slides/julien4ans.jpg</guid>
+        </item>
+        <item>
+            <title>matthieuplongeon</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2008/video/matthieuplongeon.mp4</link>
+            <pubDate>Thu, 18 May 2023 21:09:21 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2008/video/thumbs/matthieuplongeon.jpg" width="140" height="100"/>
+            <media:content  url="http://marina.couderc.free.fr/albums/Annee_2008/video/matthieuplongeon.mp4" width="640" height="480"/>
+            <jalbum:original url="http://marina.couderc.free.fr/albums/Annee_2008/video/matthieuplongeon.mp4" width="640" height="480" fileSize="1241808"/>
+            <guid isPermaLink="false">slides/matthieuplongeon.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Année 2005</title>
+   	<link>..</link>
+        <generator>jAlbum 11</generator>
+   		<description>Année 2005</description>
+        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2005/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2005/mars/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2005/avril/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2005/mai/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2005/juin/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2005/juillet/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2005/novembre/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2005/decembre/album.rss" />   	
+        
+    </channel>
+</rss>

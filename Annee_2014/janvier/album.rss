@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Janvier</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description>Les arbitres de Hand</description>
+        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2014/janvier/</jalbum:absolutePath>
+        <item>
+            <title>DSC_4828</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2014/janvier/slides/DSC_4828.JPG</link>
+            <pubDate>Thu, 18 May 2023 21:08:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2014/janvier/thumbs/DSC_4828.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="http://marina.couderc.free.fr/albums/Annee_2014/janvier/slides/DSC_4828.JPG" width="900" height="598"/>
+            <guid isPermaLink="false">slides/DSC_4828.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_4829</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2014/janvier/slides/DSC_4829.JPG</link>
+            <pubDate>Thu, 18 May 2023 21:08:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2014/janvier/thumbs/DSC_4829.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="http://marina.couderc.free.fr/albums/Annee_2014/janvier/slides/DSC_4829.JPG" width="399" height="600"/>
+            <guid isPermaLink="false">slides/DSC_4829.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_4830</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2014/janvier/slides/DSC_4830.JPG</link>
+            <pubDate>Thu, 18 May 2023 21:08:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2014/janvier/thumbs/DSC_4830.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="http://marina.couderc.free.fr/albums/Annee_2014/janvier/slides/DSC_4830.JPG" width="399" height="600"/>
+            <guid isPermaLink="false">slides/DSC_4830.JPG</guid>
+        </item>
+        <item>
+            <title>DSC_4831</title>
+            <link>http://marina.couderc.free.fr/albums/Annee_2014/janvier/slides/DSC_4831.JPG</link>
+            <pubDate>Thu, 18 May 2023 21:08:27 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2014/janvier/thumbs/DSC_4831.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="http://marina.couderc.free.fr/albums/Annee_2014/janvier/slides/DSC_4831.JPG" width="399" height="600"/>
+            <guid isPermaLink="false">slides/DSC_4831.JPG</guid>
+        </item>
+    </channel>
+</rss>
