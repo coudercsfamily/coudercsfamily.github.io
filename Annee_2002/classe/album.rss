@@ -7,15 +7,15 @@
    	<link>../..</link>
         <generator>jAlbum 11</generator>
    		<description>Alexis à la crêche</description>
-        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2002/classe/</jalbum:absolutePath>
+        <jalbum:absolutePath>http://coudercsfamily.github.io/Annee_2002/classe/</jalbum:absolutePath>
         <item>
             <title>Photo_0291</title>
-            <link>http://marina.couderc.free.fr/albums/Annee_2002/classe/slides/Photo_0291.jpg</link>
-            <pubDate>Fri, 19 May 2023 11:43:19 +0200</pubDate>
+            <link>http://coudercsfamily.github.io/Annee_2002/classe/slides/Photo_0291.jpg</link>
+            <pubDate>Sat, 19 Aug 2023 18:33:24 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2002/classe/thumbs/Photo_0291.jpg" width="140" height="100"/>
-            <media:content type="image/jpeg" url="http://marina.couderc.free.fr/albums/Annee_2002/classe/slides/Photo_0291.jpg" width="843" height="600"/>
+            <media:thumbnail url="http://coudercsfamily.github.io/Annee_2002/classe/thumbs/Photo_0291.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="http://coudercsfamily.github.io/Annee_2002/classe/slides/Photo_0291.jpg" width="843" height="600"/>
             <guid isPermaLink="false">slides/Photo_0291.jpg</guid>
         </item>
     </channel>

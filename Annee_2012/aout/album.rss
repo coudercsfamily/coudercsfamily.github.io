@@ -10,11 +10,11 @@
 Lille-Bruges
 Marcello aux Coings
 </description>
-        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2012/aout/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2012/aout/paris/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2012/aout/lille/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2012/aout/bruges/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2012/aout/marcello/album.rss" />   	
+        <jalbum:absolutePath>http://coudercsfamily.github.io/Annee_2012/aout/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2012/aout/paris/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2012/aout/lille/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2012/aout/bruges/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2012/aout/marcello/album.rss" />   	
         
     </channel>
 </rss>

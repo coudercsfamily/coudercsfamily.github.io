@@ -7,25 +7,25 @@
    	<link>../..</link>
         <generator>jAlbum 11</generator>
    		<description></description>
-        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2004/classe/</jalbum:absolutePath>
+        <jalbum:absolutePath>http://coudercsfamily.github.io/Annee_2004/classe/</jalbum:absolutePath>
         <item>
             <title>Photo_0218</title>
-            <link>http://marina.couderc.free.fr/albums/Annee_2004/classe/slides/Photo_0218.jpg</link>
-            <pubDate>Fri, 19 May 2023 11:43:16 +0200</pubDate>
+            <link>http://coudercsfamily.github.io/Annee_2004/classe/slides/Photo_0218.jpg</link>
+            <pubDate>Sat, 19 Aug 2023 18:33:21 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2004/classe/thumbs/Photo_0218.jpg" width="140" height="100"/>
-            <media:content type="image/jpeg" url="http://marina.couderc.free.fr/albums/Annee_2004/classe/slides/Photo_0218.jpg" width="838" height="600"/>
+            <media:thumbnail url="http://coudercsfamily.github.io/Annee_2004/classe/thumbs/Photo_0218.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="http://coudercsfamily.github.io/Annee_2004/classe/slides/Photo_0218.jpg" width="838" height="600"/>
             <guid isPermaLink="false">slides/Photo_0218.jpg</guid>
         </item>
         <item>
             <title>Photo_0219</title>
-            <link>http://marina.couderc.free.fr/albums/Annee_2004/classe/slides/Photo_0219.jpg</link>
-            <pubDate>Fri, 19 May 2023 11:43:16 +0200</pubDate>
+            <link>http://coudercsfamily.github.io/Annee_2004/classe/slides/Photo_0219.jpg</link>
+            <pubDate>Sat, 19 Aug 2023 18:33:21 +0200</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="http://marina.couderc.free.fr/albums/Annee_2004/classe/thumbs/Photo_0219.jpg" width="140" height="100"/>
-            <media:content type="image/jpeg" url="http://marina.couderc.free.fr/albums/Annee_2004/classe/slides/Photo_0219.jpg" width="826" height="600"/>
+            <media:thumbnail url="http://coudercsfamily.github.io/Annee_2004/classe/thumbs/Photo_0219.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="http://coudercsfamily.github.io/Annee_2004/classe/slides/Photo_0219.jpg" width="826" height="600"/>
             <guid isPermaLink="false">slides/Photo_0219.jpg</guid>
         </item>
     </channel>

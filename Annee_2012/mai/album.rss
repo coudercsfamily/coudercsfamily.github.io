@@ -9,10 +9,10 @@
    		<description>Tournoi de foot de Rabastens
 Anniversaire Alexis
 Escapade à Foix</description>
-        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2012/mai/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2012/mai/foot/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2012/mai/annivAlexis/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2012/mai/foix/album.rss" />   	
+        <jalbum:absolutePath>http://coudercsfamily.github.io/Annee_2012/mai/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2012/mai/foot/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2012/mai/annivAlexis/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2012/mai/foix/album.rss" />   	
         
     </channel>
 </rss>

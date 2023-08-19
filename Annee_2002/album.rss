@@ -7,14 +7,14 @@
    	<link>..</link>
         <generator>jAlbum 11</generator>
    		<description>Année 2002</description>
-        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2002/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2002/avril_mai/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2002/classe/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2002/decembre/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2002/janvier/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2002/juillet_aout/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2002/juin/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2002/octobre/album.rss" />   	
+        <jalbum:absolutePath>http://coudercsfamily.github.io/Annee_2002/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2002/avril_mai/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2002/classe/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2002/decembre/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2002/janvier/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2002/juillet_aout/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2002/juin/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2002/octobre/album.rss" />   	
         
     </channel>
 </rss>

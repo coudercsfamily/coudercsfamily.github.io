@@ -7,12 +7,12 @@
    	<link>..</link>
         <generator>jAlbum 11</generator>
    		<description>Année 2016</description>
-        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2016/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2016/decembre/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2016/aout/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2016/juillet/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2016/avril/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2016/mars/album.rss" />   	
+        <jalbum:absolutePath>http://coudercsfamily.github.io/Annee_2016/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2016/decembre/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2016/aout/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2016/juillet/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2016/avril/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2016/mars/album.rss" />   	
         
     </channel>
 </rss>

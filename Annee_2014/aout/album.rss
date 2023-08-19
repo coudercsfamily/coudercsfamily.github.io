@@ -9,9 +9,9 @@
    		<description>Vacances en Ardèche
 Visite à Marcello et à Rosa dit Louloutine
 Saint-Cirq-Lapopie</description>
-        <jalbum:absolutePath>http://marina.couderc.free.fr/albums/Annee_2014/aout/</jalbum:absolutePath>
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2014/aout/ardeche/album.rss" />   	
-    	<jalbum:link rel="sub" href="http://marina.couderc.free.fr/albums/Annee_2014/aout/saintcirq/album.rss" />   	
+        <jalbum:absolutePath>http://coudercsfamily.github.io/Annee_2014/aout/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2014/aout/ardeche/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2014/aout/saintcirq/album.rss" />   	
         
     </channel>
 </rss>
