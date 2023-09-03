@@ -8,6 +8,7 @@
         <generator>jAlbum 11</generator>
    		<description></description>
         <jalbum:absolutePath>http://coudercsfamily.github.io/Annee_2023/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2023/septembre/album.rss" />   	
     	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2023/aout/album.rss" />   	
     	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2023/mai/album.rss" />   	
     	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2023/avril/album.rss" />   	
