@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Weekends</title>
+   	<link>../..</link>
+        <generator>jAlbum 11</generator>
+   		<description></description>
+        <jalbum:absolutePath>http://coudercsfamily.github.io/Annee_2025/Weekends/</jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2025/Weekends/Biarritz/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2025/Weekends/Perigord/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2025/Weekends/Castres/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2025/Weekends/Sete/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2025/Weekends/Moissac/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2025/Weekends/Combo/album.rss" />   	
+    	<jalbum:link rel="sub" href="http://coudercsfamily.github.io/Annee_2025/Weekends/Marseille/album.rss" />   	
+        
+    </channel>
+</rss>
